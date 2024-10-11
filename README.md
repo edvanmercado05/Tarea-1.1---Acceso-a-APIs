@@ -1,4 +1,5 @@
-# Tarea-1.1---Acceso-a-APIs
+# Tarea 1.2 - Extension de API OSTICKET
+
 
 Reporte sobre el Acceso a APIs utilizando POST con XAMPP, Postman y osTicket
 Introducción
